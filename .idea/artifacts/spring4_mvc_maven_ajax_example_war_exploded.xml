@@ -1,0 +1,41 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="spring4-mvc-maven-ajax-example:war exploded">
+    <output-path>$PROJECT_DIR$/target/spring4-mvc-maven-ajax-example-1.0-SNAPSHOT</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="spring4-mvc-maven-ajax-example" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:4.1.7.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:4.1.7.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:4.1.7.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:4.1.7.RELEASE" />
+          <element id="library" level="project" name="Maven: aopalliance:aopalliance:1.0" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:4.1.7.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:4.1.7.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:4.1.7.RELEASE" />
+          <element id="library" level="project" name="Maven: net.sf.json-lib:json-lib:jdk15:2.4" />
+          <element id="library" level="project" name="Maven: commons-beanutils:commons-beanutils:1.8.0" />
+          <element id="library" level="project" name="Maven: commons-collections:commons-collections:3.2.1" />
+          <element id="library" level="project" name="Maven: commons-lang:commons-lang:2.5" />
+          <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.1.1" />
+          <element id="library" level="project" name="Maven: net.sf.ezmorph:ezmorph:1.0.6" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpclient:4.2.3" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpcore:4.2.2" />
+          <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.6" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.6.3" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.6.3" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.6.0" />
+          <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
+          <element id="library" level="project" name="Maven: org.mortbay.jetty:jetty-util:6.1.25" />
+          <element id="library" level="project" name="Maven: com.googlecode.json-simple:json-simple:1.1" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="C:\projects\spring4-mvc-maven-ajax-example\spring4-mvc-maven-ajax-example\target/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="spring4-mvc-maven-ajax-example/web/Web" />
+    </root>
+  </artifact>
+</component>

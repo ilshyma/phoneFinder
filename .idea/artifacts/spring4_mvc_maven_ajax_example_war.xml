@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring4-mvc-maven-ajax-example:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="spring4-mvc-maven-ajax-example-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="spring4-mvc-maven-ajax-example:war exploded" />
+    </root>
+  </artifact>
+</component>
