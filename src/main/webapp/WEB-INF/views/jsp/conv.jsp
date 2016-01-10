@@ -37,7 +37,7 @@
 			<div class="form-group form-group-lg">
 				<label class="col-sm-2 control-label">Phone</label>
 				<div class="col-sm-4">
-					<input type="text" class="form-control" id="phone" placeholder="+380123456789">
+					<input type="text" class="form-control" id="phone" placeholder="+380123456789" required/>
 				</div>
 			</div>
 
